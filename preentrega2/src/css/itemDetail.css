@@ -1,0 +1,11 @@
+.item-detail {
+    margin: 20px;
+  }
+  
+  .item-detail h2 {
+    color: black;
+  }
+  
+  .item-detail p {
+    color: orange;
+  }

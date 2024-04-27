@@ -1,0 +1,19 @@
+
+.item-list-container {
+    padding: 100px 0;
+    text-decoration:none;
+    align-items: center;
+    position: inherit;
+  }
+
+  .item-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin:5rem;
+    position: inherit;
+  }
+  
+  
+
+  
